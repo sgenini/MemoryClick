@@ -1,6 +1,1 @@
-**/node_modules/
-**/client/node_modules
-.vscode
-.idea/
-.DS_Store
-.env
+node_modules
