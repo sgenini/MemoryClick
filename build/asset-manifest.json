@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.698c1db2.chunk.css",
-  "main.js": "/static/js/main.04f2118d.chunk.js",
-  "main.js.map": "/static/js/main.04f2118d.chunk.js.map",
-  "static/js/1.fb9f72c6.chunk.js": "/static/js/1.fb9f72c6.chunk.js",
-  "static/js/1.fb9f72c6.chunk.js.map": "/static/js/1.fb9f72c6.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.698c1db2.chunk.css.map": "/static/css/main.698c1db2.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.f3aa128d2472e75144c11ee50768df7b.js": "/precache-manifest.f3aa128d2472e75144c11ee50768df7b.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/MemoryClick/static/css/main.63a4ad85.chunk.css",
+  "main.js": "/MemoryClick/static/js/main.a73b7b02.chunk.js",
+  "main.js.map": "/MemoryClick/static/js/main.a73b7b02.chunk.js.map",
+  "runtime~main.js": "/MemoryClick/static/js/runtime~main.dbae6c51.js",
+  "runtime~main.js.map": "/MemoryClick/static/js/runtime~main.dbae6c51.js.map",
+  "static/js/2.5cb12968.chunk.js": "/MemoryClick/static/js/2.5cb12968.chunk.js",
+  "static/js/2.5cb12968.chunk.js.map": "/MemoryClick/static/js/2.5cb12968.chunk.js.map",
+  "index.html": "/MemoryClick/index.html",
+  "precache-manifest.ce8856d70bf70b36fa772ec9aaffa9dd.js": "/MemoryClick/precache-manifest.ce8856d70bf70b36fa772ec9aaffa9dd.js",
+  "service-worker.js": "/MemoryClick/service-worker.js",
+  "static/css/main.63a4ad85.chunk.css.map": "/MemoryClick/static/css/main.63a4ad85.chunk.css.map"
 }
