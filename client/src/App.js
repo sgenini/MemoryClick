@@ -2,8 +2,7 @@ import React from "react";
 import Nav from "./components/Nav/nav";
 import Jumbotron from "./components/Jumbotron/jumbotron";
 import Card from "./components/Card/card";
-import clicky from "./components/clicky.json"
-
+import clicky from "./components/clicky.json";
 
 class App extends React.Component {
   state = {
@@ -50,7 +49,7 @@ class App extends React.Component {
 
   render(){
     return (
-      <div className="container-fluid">
+      <div className="container-fluid memoryclick" style={{minHeight: "100vh", backgroundImage: "url('https://images.unsplash.com/photo-1533279443086-d1c19a186416?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2089&q=80')", paddingTop: 25}}>
         <Nav 
           score={this.state.score} 
           highScore={this.state.highScore} 
